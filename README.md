@@ -1,3 +1,3 @@
 # Manuscript_HiSorb
 
-Place holder - data to be added after review
+https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c02873
